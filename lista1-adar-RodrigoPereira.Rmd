@@ -3,7 +3,7 @@ title: "Resolução-da-Lista-1-de-ADAR"
 author: "Rodrigo da Silva Pereira"
 date: "26/11/2021"
 output: html_notebook
-----
+---
 
 
 ##### 1. Execute as seguintes expressões no R mostrando os resultados obtidos.
